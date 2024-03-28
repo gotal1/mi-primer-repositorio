@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en GitHub para el curso e freeCodeCampl
+Mi primer repositorio en GitHub para el curso de freeCodeCampl
